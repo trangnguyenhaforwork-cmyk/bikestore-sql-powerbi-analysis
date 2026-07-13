@@ -20,7 +20,7 @@ The goal of this project was to build an **end-to-end analytics solution** — f
 
 ## 🗂️ Dataset & Tools
 
-**Dataset**: [BikeStores](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database) relational sample database — 8+ tables covering `orders`, `order_items`, `products`, `brands`, `categories`, `stores`, `staffs`, and `customers`, spanning 2016–2018.
+**Dataset**: [Bike Store Relational Database](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database) (Kaggle) — a set of relational CSV tables covering `orders`, `order_items`, `products`, `brands`, `categories`, `stores`, `staffs`, and `customers`, spanning 2016–2018. Tables were imported into SQL Server for querying; query outputs were staged in Excel before being loaded into Power BI.
 
 **Tools & workflow**:
 | Stage | Tool | Purpose |
@@ -97,7 +97,7 @@ bikestore-project/
 └── README.md
 ```
 
-📊 **[Download the .pbix file](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)** to explore the report interactively in Power BI Desktop (free) — includes working slicers, cross-filtering, and drill-through.
+📊 **[Download the .pbix file](https://drive.google.com/file/d/1DKD3ihUSVg-1DiodccMvGw9lSYuY1w8_/view?usp=sharing)** to explore the report interactively in Power BI Desktop (free) — includes working slicers, cross-filtering, and drill-through.
 
 ---
 
